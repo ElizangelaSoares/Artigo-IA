@@ -1,7 +1,7 @@
 <h1>Projeto: Artigo criado com ajuda de I.A.s </h1>
 
 <h2>🎯 Objetivo do Projeto</h2>
-<p>Projeto com o objetivo de criar um artigo, utilizando ferramentas de IA.</p>
+<p>Projeto com o objetivo de criar um artigo utilizando ferramentas de IA.</p>
 
 <a href="https://github.com/ElizangelaSoares/Artigo-IA/blob/main/O%20Futuro%20do%20Trabalho%20Como%20a%20Automa%C3%A7%C3%A3o%20Inteligente%20Est%C3%A1%20Transformando%20as%20Empresas.pdf"> 📕Clique aqui para ler</a>
 
